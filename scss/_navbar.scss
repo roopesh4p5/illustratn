@@ -1,0 +1,25 @@
+.subdiv{
+display: flex;
+flex-direction: row;
+}
+nav{
+    background-color:$navi;
+}
+ul{
+    
+    li{
+        font-size: 20px;
+        font-weight:300;
+        padding: 20px;
+    }
+    .ill{
+        font-size: 22px;
+        font-weight: bolder;
+    }
+}
+
+.lst{
+    padding: 10px;
+    font-size: 15px;
+}
+
